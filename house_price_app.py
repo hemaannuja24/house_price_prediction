@@ -6,7 +6,7 @@ import pathlib
 page_bg_img = """
 <style>
 [data-testid="stAppViewContainer"] {
-background-image : url("https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-124674.jpg");
+background-image : url("https://www.pexels.com/search/house/");
 background-size: cover;
 }
 [data-testid="stSidebar"] {
