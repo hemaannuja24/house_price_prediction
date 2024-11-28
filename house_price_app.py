@@ -6,11 +6,11 @@ import pathlib
 page_bg_img = """
 <style>
 [data-testid="stAppViewContainer"] {
-background-image : url("https://www.pexels.com/photo/house-lights-turned-on-106399/");
+background-image : ("./House 2.jpg");
 background-size: cover;
 }
 [data-testid="stSidebar"] {
-background-image : url("https://www.usrisk.com/siteassets/images/sidebar-background.jpg?v=492e8c");
+background-image : ("./House.jpg");
 
 }
 </style>
